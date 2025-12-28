@@ -1,1 +1,11 @@
 # gh-deployment-workflow
+This project demonstrates how to deploy a static website to **GitHub Pages**
+using **GitHub Action**.
+
+## Features 
+-Automatically deployes when 'index.html' is changed
+-Uses GitHub Pages
+-Demonstrates CI/CD with GitHub Action
+
+## Live Website 
+https://Vaishnavi2003-ECE.github.io/gh-deployment-workflow
