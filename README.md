@@ -9,3 +9,10 @@ using **GitHub Action**.
 
 ## Live Website 
 https://Vaishnavi2003-ECE.github.io/gh-deployment-workflow
+
+# GitHub Pages Deployment Workflow
+
+This project demonstrates deploying `index.html` to GitHub Pages using GitHub Actions.
+
+## 🔗 Live Project URL
+https://Vaishnavi2003-ECE.github.io/gh-deployment-workflow/
