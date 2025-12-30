@@ -8,7 +8,7 @@ using **GitHub Action**.
 -Demonstrates CI/CD with GitHub Action
 
 ## Project URL
-https://Vaishnavi2003-ECE.github.io/gh-deployment-workflow
+https://vaishnavi2003-ece.github.io/gh-deployment-workflow
 
 
 
