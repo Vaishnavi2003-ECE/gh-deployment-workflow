@@ -2,7 +2,7 @@
 This project demonstrates how to deploy a static website to **GitHub Pages**
 using **GitHub Action**.
 
-## Features 
+## Feature
 -Automatically deployes when 'index.html' is changed
 -Uses GitHub Pages
 -Demonstrates CI/CD with GitHub Action
